@@ -1,4 +1,4 @@
-@media screen and (min-width: 0px) {
+@media screen and (max-width: 768px) {
     
     .destaques__principal {
         grid-column: 1 / 5;
